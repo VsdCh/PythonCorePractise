@@ -9,3 +9,6 @@ print(line2.capitalize())
 print(line1.count("a"))
 print(line2.count("e"))
 #подсчёт символов в наборе симоволов
+print(line1.endswith("e"))
+print(line2.endswith("r"))
+#bool заканчивается ли слово на этот символ?
