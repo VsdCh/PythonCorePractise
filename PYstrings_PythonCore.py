@@ -12,3 +12,7 @@ print(line2.count("e"))
 print(line1.endswith("e"))
 print(line2.endswith("r"))
 #bool заканчивается ли слово на этот символ?
+
+line3 = "tower"
+print(line3.islower())
+#bool написано ли маленькими буквами?
